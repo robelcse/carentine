@@ -1,0 +1,2 @@
+# carentine
+This is built to help people during home quarantine. Here are two types of users: 1. Want help(Simply they can post a request with their phone number and postcode. Someone nearby will contact them to help them. They can also browse the people who want to help in their neighborhood.) 2. Want to help(Simply they can post a request with their phone number and postcode. Someone nearby will contact for help. They can also browse the people who want help in their neighborhood.)
